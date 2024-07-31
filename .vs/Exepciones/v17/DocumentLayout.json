@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\royol\\Documents\\backend\\apis\\Exepciones\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D846D6D4-C279-43D2-879B-3E8A2346527E}|Exepciones\\Exepciones.csproj|c:\\users\\royol\\documents\\backend\\apis\\exepciones\\exepciones\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D846D6D4-C279-43D2-879B-3E8A2346527E}|Exepciones\\Exepciones.csproj|solutionrelative:exepciones\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D846D6D4-C279-43D2-879B-3E8A2346527E}|Exepciones\\Exepciones.csproj|c:\\users\\royol\\documents\\backend\\apis\\exepciones\\exepciones\\simpleaesencryption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D846D6D4-C279-43D2-879B-3E8A2346527E}|Exepciones\\Exepciones.csproj|solutionrelative:exepciones\\simpleaesencryption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SimpleAesEncryption.cs",
+              "DocumentMoniker": "C:\\Users\\royol\\Documents\\backend\\apis\\Exepciones\\Exepciones\\SimpleAesEncryption.cs",
+              "RelativeDocumentMoniker": "Exepciones\\SimpleAesEncryption.cs",
+              "ToolTip": "C:\\Users\\royol\\Documents\\backend\\apis\\Exepciones\\Exepciones\\SimpleAesEncryption.cs",
+              "RelativeToolTip": "Exepciones\\SimpleAesEncryption.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwCEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T03:42:49.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\royol\\Documents\\backend\\apis\\Exepciones\\Exepciones\\Program.cs",
+              "RelativeDocumentMoniker": "Exepciones\\Program.cs",
+              "ToolTip": "C:\\Users\\royol\\Documents\\backend\\apis\\Exepciones\\Exepciones\\Program.cs",
+              "RelativeToolTip": "Exepciones\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T00:46:07.834Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
